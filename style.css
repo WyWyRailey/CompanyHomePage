@@ -1,0 +1,30 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header-container{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #00ffab;
+}
+
+.header-item {
+  height: auto;
+  margin: 5px;
+  align-content: flex-end;
+  justify-content: space-around;
+  background-color: #6799aa;
+}
+
+.item1 {
+}
+
+.item2 {
+}
+
+.item3 {
+}
