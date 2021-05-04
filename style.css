@@ -2,13 +2,16 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h1 {
+  text-align: center;
+}
 .header-container{
   width: 100%;
   height: auto;
   display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-end;
   background-color: #00ffab;
 }
 
