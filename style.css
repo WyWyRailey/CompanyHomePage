@@ -1,5 +1,6 @@
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
+  
 }
 
 h1 {
@@ -23,11 +24,16 @@ h1 {
   background-color: #6799aa;
 }
 
-.item1 {
+.mission-container {
+  display: flex;
+  height: 300px;
+  background-image: url("../photos/mission.jpg");
+  padding-top: 35px;
 }
 
-.item2 {
-}
-
-.item3 {
+.mission-container .mission-item {
+  text-align: center;
+  color: #ddeeff;
+  margin: auto;
+  width: 100%;
 }
