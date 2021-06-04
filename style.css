@@ -75,13 +75,13 @@ h1 {
   padding-top: 5px;
   display: flex;
   flex: wrap;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .member {
   padding: 10px;
   flex-basis: 280px;
-  color: whitesmoke;
+  color: #aaeeff;
 }
 
 .member img {
